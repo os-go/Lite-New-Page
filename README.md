@@ -2,7 +2,7 @@
 
 ## 介绍
 This is A New Page.
-
+### 如果你在使用期间出现任何问题，欢迎[点这里进行反馈](http://jonyam2008.mikecrm.com/ojnhc4E)
 
 ## 下载方法
 [Gitee 官方仓库](https://gitee.com/heyos/newpage)
@@ -24,7 +24,7 @@ This is A New Page.
 #### 完成下载！
 
 ## 安装方法
-### 本地安装(推荐)
+### 本地安装
 ![找到下载的文件并解压](https://images.gitee.com/uploads/images/2020/0512/120641_b601374c_7552126.png "屏幕截图.png")
 ![找到 index.html 文件](https://images.gitee.com/uploads/images/2020/0512/123438_65eb1da8_7552126.png "屏幕截图.png")
 
@@ -44,7 +44,7 @@ This is A New Page.
 
 **使用此方法请勿删除本地文件**
 
-### 在线网页(不推荐（格式不正确）)
+### 在线网页
 ![点击右上角的更多](https://images.gitee.com/uploads/images/2020/0512/122950_c6a7a3fc_7552126.png "屏幕截图.png")
 
 ![点击‘设置’](https://images.gitee.com/uploads/images/2020/0512/123118_7f0c0902_7552126.png "屏幕截图.png")
@@ -61,4 +61,3 @@ This is A New Page.
 
 
 ## 感谢大家的支持
-
